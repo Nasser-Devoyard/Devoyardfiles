@@ -1,0 +1,11 @@
+Task 2 Notes:
+
+1) Validation for email using regular expressions
+2) Soft Delete (Add an attribute in the table with a name isDeleted which is gonna be of type bool)
+3) Show the Id for users (need to make a GetUserDTO)
+
+Task3:
+new soluation (Pizza online)
+3 class lib 
+1 web 
+1 host 
